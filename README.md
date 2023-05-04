@@ -1,8 +1,8 @@
-### Olá, Eu sou o Gabriel Leandro 😀✌
+## Olá, Eu sou o Gabriel Leandro 😀✌
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=tokyonight)
 
-### Tecnologias que tenho utilizado no meu dia a dia
+#### Tecnologias que tenho utilizado no meu dia a dia
 
 <div style = "display: inline-block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,7 +11,7 @@
     <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-### Tecnologias que já utilizei
+#### Tecnologias que já utilizei
 
 <div style = "display: inline-block">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -20,6 +20,6 @@
     <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <div>
 	
-### Onde me encontrar
+#### Onde me encontrar 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leandro-410b3b240/)
