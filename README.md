@@ -1,4 +1,4 @@
-### Olá, Eu sou o Gabriel Leandro 😎✌
+### Olá, Eu sou o Gabriel Leandro 😀✌
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=dark)
 
