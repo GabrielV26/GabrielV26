@@ -2,7 +2,7 @@
 
 <div style = "display: flex; justify-content: flex-start;">
     <img style = "height: 150px; padding-right: 20px;" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=tokyonight">
-    <img style = "height: 150px" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielV26&layout=compact&theme=tokyonight">
+    <img style = "height: 150px" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielV26&layout=compact&theme=tokyonight&token=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">
 </div>
 
 #### Tecnologias que tenho utilizado no meu dia a dia
