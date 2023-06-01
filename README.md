@@ -24,4 +24,6 @@
 	
 #### Onde me encontrar 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leandro-410b3b240/){:target="_blank"}
+<a href="https://www.linkedin.com/in/gabriel-leandro-410b3b240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
