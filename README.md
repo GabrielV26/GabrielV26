@@ -21,9 +21,3 @@
     <img alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <div>
-	
-#### Onde me encontrar 
-
-<a href="https://www.linkedin.com/in/gabriel-leandro-410b3b240/" onclick="window.open('https://www.linkedin.com/in/gabriel-leandro-410b3b240/'); return false;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
