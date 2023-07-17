@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Gabriel Leandro 😀✌
 
 <div style = "display: flex; justify-content: flex-start;">
-    <img style = "height: 150px; padding-right: 20px;" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=tokyonight&auth=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">
-    <img style = "height: 150px" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielV26&layout=compact&theme=tokyonight&auth=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">
+    <img style = "height: 150px; padding-right: 20px;" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=tokyonight">
+    <img style = "height: 150px" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielV26&layout=compact&theme=tokyonight">
 </div>
 
 #### Linguagens de programação e ferramentas que utilizo no meu dia a dia
