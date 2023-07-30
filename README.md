@@ -1,4 +1,4 @@
-## Olá, Eu sou o Gabriel Leandro 😀✌
+## Olá, Eu sou o Gabriel Henrique 😀✌
 
 <div style = "display: flex; justify-content: flex-start;">
     <img style = "height: 150px; padding-right: 20px;" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=tokyonight">
