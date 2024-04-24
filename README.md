@@ -5,7 +5,7 @@
     <img style = "height: 150px" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielV26&layout=compact&theme=tokyonight">
 </div>
 
-#### Programming languages and tools I use most often
+#### Programming languages and tools I usually use.
 
 <div style = "display: inline-block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
