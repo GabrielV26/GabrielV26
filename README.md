@@ -1,11 +1,11 @@
-## Olá, Eu sou o Gabriel Henrique 😀✌
+## Hello, I'm Gabriel Henrique 😀✌
 
 <div style = "display: flex; justify-content: flex-start;">
     <img style = "height: 150px; padding-right: 20px;" alt="Meus status" src="https://github-readme-stats.vercel.app/api?username=GabrielV26&show_icons=true&theme=tokyonight">
     <img style = "height: 150px" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielV26&layout=compact&theme=tokyonight">
 </div>
 
-#### Linguagens de programação e ferramentas que utilizo com mais frequência
+#### Programming languages and tools I use most often
 
 <div style = "display: inline-block">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-#### Linguegens de programação conhecidas
+#### Programming languages that I know.
 
 <div style = "display: inline-block">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
