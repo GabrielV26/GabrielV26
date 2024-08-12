@@ -18,7 +18,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-#### Programming languages that I know.
+#### Programming languages and tools I've used.
 
 <div style = "display: inline-block">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
